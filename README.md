@@ -1,8 +1,7 @@
-# Generic Searchable SwiftUI View
+# Easy Searchable SwiftUI View
 
 ### SearchView
 
-This proof of concept demonstrates how to natively implement a generic `SearchView` using Swift & SwiftUI APIs. The project was initiated in response to a request from the [Swift() Telegram Group](https://t.me/SwiftGroup).
 
 ### Example Projects
 
